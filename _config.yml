@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AIoT Lab / Site Title"
-title_separator          : "-"
+title                    : "AIoT Lab "
+title_separator          : "AIoT Lab"
 name                     : &name "Xinlei Chen"
 description              : &description "Mainly engaged in intelligent Internet of Things, multi-intelligent body collaboration, reinforcement learning, pervasive computing, brain-computer interface and other research"
-url                      : https://AIoT-THU.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://AIoT-THU.github.io" 
 baseurl                  : ""
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,12 +83,12 @@ author:
   name             : "Xinlei Chen"
   avatar           : "profile.png"
   bio              : "Professor"
-  location         : "Shenzhen"
+  location         : "Tsinghua, Shenzhen"
   employer         :
   pubmed           : "https://www.sigs.tsinghua.edu.cn/cxl/main.htm"
   googlescholar    : "https://scholar.google.com/citations?user=Ha8rlUgAAAAJ"
   email            : "chen.xinlei@sz.tsinghua.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
